@@ -1,8 +1,8 @@
 <p align="center">
   <img src="./assets/1001-react-native.png" width="250px" />
-    <h1 align="center" style="margin-top: -15px">
+    <h2 align="center" style="margin-top: -15px">
     React Native for 1001 Days
-  </h1>
+  </h2>
 </p>
 
 
@@ -13,4 +13,22 @@ I created this repository as part of my 1001 Days of React Native challenge. The
 <a href="https://www.buymeacoffee.com/lauraarezo4" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me a Coffee" style="width: 150px !important;" ></a>
 
 
-### Day 1 - Carousel with Play and Pause
+<!-- ### Day 1 - Carousel with Play and Pause -->
+
+<!--
+Ideas:
+
+ - Carousel using FlatList
+- BottomSheet using Expo only
+- Mini game how many pieces
+- Swipeable
+- Conffetti explosion
+- Vortex
+- Marquee text
+- Cards carousel
+- Increment and decrement field
+- Modal with Video
+- Video showing in the screen
+- Maps -->
+
+
