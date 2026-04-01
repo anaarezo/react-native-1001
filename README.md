@@ -15,6 +15,8 @@ I created this repository as part of my 1001 Days of React Native challenge. The
 
 ### Day 1 - Carousel with Play and Pause
 
-![Demo](https://github.com/user-attachments/assets/13888967-3cba-421f-b710-390d04749902)
+Highly customizable React Native carousel built with the powerful react-native-reanimated-carousel library. Features include a play and pause button for seamless control, dynamic bullet pagination that doubles as a progress bar, and smooth animations. Ideal for mobile app developers looking for an interactive and performance-optimized image slider in React Native.
+
+https://github.com/user-attachments/assets/13888967-3cba-421f-b710-390d04749902
 
 
